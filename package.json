@@ -7,6 +7,9 @@
   "authors": [
     "Shiva Nandan"
   ],
+  "dependencies": {
+    "react-native-webview": "^9.0.1"
+  },
   "license": "MIT",
   "keywords": [
     "react-native",
